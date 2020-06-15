@@ -1,0 +1,8 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+  border: 50px solid #60ebde;
+  border-top: 0px;
+  font-family: 'Nunito', sans-serif;
+}
